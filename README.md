@@ -1,8 +1,7 @@
 ## Learning-CiscoPacketTracer
  Documentation of me learning basic networking commands, deploying small networks using HUB & Bridge, network deployment with switches and IP transmission using DHCP, VLAN & Trunks configuration, inter-VLAN routing, general-purpose network utilities, routing protocols, subnetting, access control lists, NAT and PAT, and Open Shortest Path First (OSPF) routing
 
-## Lab 1
-### Understanding of basic networking commands 
+### Lab 1 - Understanding of basic networking commands 
 I learned basic networking commands for troubleshooting connectivity issues. The lab included tasks such as accessing network connection settings via `ncpa.cpl`, identifying connection types (Ethernet, Wi-Fi, Bluetooth), and understanding IPv4 and IPv6 statuses. I practiced using the command prompt for network configuration information and used the `ping` command to test connectivity and measure response times. I also used `tracert` to trace routes and identify potential network bottlenecks, understanding each step in data packet travel. The lab concluded with a troubleshooting scenario using traceroute to diagnose and resolve server connectivity issues.
 
 ## Lab 2
